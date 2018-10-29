@@ -20,3 +20,5 @@ function distanceFromHqInBlocks(currentBlock) {
   // 34 42
 }
    
+   
+   
