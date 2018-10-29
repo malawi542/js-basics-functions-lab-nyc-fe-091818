@@ -7,7 +7,8 @@ const hq = 42
 // hq = 42nd Street
 function distanceFromHqInBlocks(currentBlock) {
   // 43 42
-  // 34 42
   return currentBlock - hq
+  
+  // 34 42
 }
    
