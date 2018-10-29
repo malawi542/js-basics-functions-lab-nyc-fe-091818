@@ -58,7 +58,8 @@ function distanceFromHqInBlocks(currentBlock) {
   
   if (numberOfFeet <= 400) {
     return 0
-  } else if () {
+  } 
+  else if () {
     
   }
  }
