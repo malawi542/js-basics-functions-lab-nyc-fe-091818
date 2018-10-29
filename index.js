@@ -26,7 +26,7 @@ function distanceFromHqInBlocks(currentBlock) {
   // convert that into feet
   
    if (currentBlock > hq) {
-     numberOfBlocks 
+     numberOfBlocks = 
       return currentBlock - hq
   } else  {
     
