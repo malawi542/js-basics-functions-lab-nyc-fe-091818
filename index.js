@@ -30,7 +30,7 @@ function distanceFromHqInBlocks(currentBlock) {
      numberOfBlocks = currentBlock - hq
   } else  {
     
-      return hq - currentBlock
+      numberOfBlocks = hq - currentBlock
   }
 }
  }
