@@ -60,5 +60,5 @@ function distanceFromHqInBlocks(currentBlock) {
     return 0
   } 
   else if (numberOfFeet >= 400 && numberOfFeet <= 2000) {
-    
+  }
  }
