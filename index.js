@@ -35,3 +35,6 @@ function distanceFromHqInBlocks(currentBlock) {
   
   return numberOfBlocks * feetInBlock
  }
+ 
+ 
+ function distanceTravelledInFeet()
