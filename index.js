@@ -3,8 +3,8 @@ const hq = 42
 
 // Code your solution in this file!
 
-// someValue = 43rd distanceFromHqInFeet
-
+// someValue = 43rd Street
+// 
 function distanceFromHqInBlocks(currentBlock) {
   // 43 42
   // 34 42
