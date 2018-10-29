@@ -40,5 +40,7 @@ function distanceFromHqInBlocks(currentBlock) {
  function distanceTravelledInFeet(block1, block2) {
   // 43   48
   // 1. want to get the distance 
-  // 2. 
+  
+  
+  // 2. Convert to feet
  }
