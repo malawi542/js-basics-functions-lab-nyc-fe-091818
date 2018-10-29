@@ -57,6 +57,6 @@ function distanceFromHqInBlocks(currentBlock) {
   // first four hundred are free
   
   if (numberOfFeet <= 400) {
-    
+    return 0
   }
  }
