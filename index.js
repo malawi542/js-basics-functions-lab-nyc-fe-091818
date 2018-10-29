@@ -41,6 +41,6 @@ function distanceFromHqInBlocks(currentBlock) {
   // 43   48
   // 1. want to get the distance 
   
-  const numberOfBlocks = math.abs 
+  const numberOfBlocks = Math.abs()
   // 2. Convert to feet
  }
