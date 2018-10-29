@@ -55,4 +55,6 @@ function distanceFromHqInBlocks(currentBlock) {
   const numberOfFeet = numberOfBlocks * feetInBlock
  
   // first four hundred are free
+  
+  if ()
  }
