@@ -51,5 +51,8 @@ function distanceFromHqInBlocks(currentBlock) {
  function calculatesFarePrice(startingBlock, destinationBlock) {
   // How far are they going?
  
+ const numberOfBlocks = Math.abs(block1 - block2)
+  
+ 
   // first four hundred are free
  }
