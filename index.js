@@ -64,8 +64,6 @@ function distanceFromHqInBlocks(currentBlock) {
    return (numberOfFeet - 400) * 0.02
   } 
   else if (numberOfFeet => 2000 && numberOfFeet <2500) {
-    return 25
-  } else {
-    return 'cannot travel that far'
+    return 25 
   }
  }
