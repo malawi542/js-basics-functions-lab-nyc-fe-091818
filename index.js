@@ -56,5 +56,7 @@ function distanceFromHqInBlocks(currentBlock) {
  
   // first four hundred are free
   
-  if ()
+  if () {
+    
+  }
  }
