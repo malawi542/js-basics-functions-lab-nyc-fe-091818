@@ -27,8 +27,7 @@ function distanceFromHqInBlocks(currentBlock) {
   
   let numberOfBlocks 
    if (currentBlock > hq) {
-     numberOfBlocks = 
-      return currentBlock - hq
+     numberOfBlocks = currentBlock - hq
   } else  {
     
       return hq - currentBlock
