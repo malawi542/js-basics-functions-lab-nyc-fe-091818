@@ -32,4 +32,6 @@ function distanceFromHqInBlocks(currentBlock) {
     
       numberOfBlocks = hq - currentBlock
   }
+  
+  return numberOfBlocks * feetInBlock
  }
