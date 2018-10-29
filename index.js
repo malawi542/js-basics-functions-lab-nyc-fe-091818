@@ -2,7 +2,7 @@
 const block = 264
 const hq = 42
 
-function distanceFromHqInBlocks(currentBlock) {
+function distanceFromHqInBlocks(someValue) {
   // 43 42
   // 34 42
   
