@@ -48,7 +48,7 @@ function distanceFromHqInBlocks(currentBlock) {
  }
  
  
- function calculatesFarePrice(start, destination) {
+ function calculatesFarePrice(startingBlock, destinationBlock) {
   // How far are they going?
  
   // first four hundred are free
