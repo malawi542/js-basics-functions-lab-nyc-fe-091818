@@ -52,7 +52,7 @@ function distanceFromHqInBlocks(currentBlock) {
   // How far are they going?
  
  const numberOfBlocks = Math.abs(block1 - block2)
-  const numberOfBlocks
+  const numberOfFeet = numberOfBlocks * feetInBlock
  
   // first four hundred are free
  }
