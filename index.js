@@ -25,6 +25,7 @@ function distanceFromHqInBlocks(currentBlock) {
   // figure out how many blocks away it is
   // convert that into feet
   
+  let 
    if (currentBlock > hq) {
      numberOfBlocks = 
       return currentBlock - hq
