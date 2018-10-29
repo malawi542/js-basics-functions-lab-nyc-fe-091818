@@ -65,6 +65,7 @@ function distanceFromHqInBlocks(currentBlock) {
   } 
   else if (numberOfFeet => 2000 && numberOfFeet <2500) {
     return 25
-    return
+  } else (numberOfFeet > 2500) {
+    
   }
  }
