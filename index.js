@@ -46,3 +46,6 @@ function distanceFromHqInBlocks(currentBlock) {
   // 2. Convert to feet
   return numberOfBlocks * feetInBlock
  }
+ 
+ 
+ function calculatesFarePrice(start, destination)
