@@ -22,5 +22,6 @@ function distanceFromHqInBlocks(currentBlock) {
    
    
  function distanceFromHqInFeet(currentBlock)  {
-  // 
+  // figure out how many blocks away it is
+  // convert that into feet
  }
