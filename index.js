@@ -48,4 +48,6 @@ function distanceFromHqInBlocks(currentBlock) {
  }
  
  
- function calculatesFarePrice(start, destination)
+ function calculatesFarePrice(start, destination) {
+   
+ }
