@@ -49,5 +49,5 @@ function distanceFromHqInBlocks(currentBlock) {
  
  
  function calculatesFarePrice(start, destination) {
-   
+  // first 400 
  }
