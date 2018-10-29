@@ -37,4 +37,6 @@ function distanceFromHqInBlocks(currentBlock) {
  }
  
  
- function distanceTravelledInFeet()
+ function distanceTravelledInFeet(block1, block2) {
+   
+ }
